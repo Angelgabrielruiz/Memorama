@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Card from '../molecules/Card';
 import './Memoram.css';
 
-import { images } from '../../data';
+import { images } from '../../data/data';
 
 function Memoram() {
 
